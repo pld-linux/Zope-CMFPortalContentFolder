@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.python
 %define		zope_subname	PortalContentFolder
 Summary:	Product allow a mix of both PortalContent and SkinnedFolder
 Summary(pl):	Produkt umo¿liwiaj±cy ³±czenie zawarto¶ci PortalContent i SkinnedFolder
