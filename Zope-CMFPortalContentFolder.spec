@@ -10,7 +10,7 @@ Source0:	http://zope.org/Members/efge/%{zope_subname}/%{version}/%{zope_subname}
 # Source0-md5:	5d0e180802af83c9c5334db93cd76325
 URL:		http://zope.org/Members/efge/PortalContentFolder/
 Requires(post,postun):	/usr/sbin/installzopeproduct
-BuildRequires:  python
+BuildRequires:	python
 %pyrequires_eq	python-modules
 Requires:	Zope
 Requires:	Zope-CMF
