@@ -3,7 +3,7 @@ Summary:	Product allow a mix of both PortalContent and SkinnedFolder
 Summary(pl):	Produkt umo¿liwiaj±cy ³±czenie zawarto¶ci PortalContent i SkinnedFolder
 Name:		Zope-CMF%{zope_subname}
 Version:	0.2
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Tools
 Source0:	http://zope.org/Members/efge/%{zope_subname}/%{version}/%{zope_subname}-%{version}.tgz
