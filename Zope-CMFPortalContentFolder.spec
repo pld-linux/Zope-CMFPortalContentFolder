@@ -1,6 +1,6 @@
 %define		zope_subname	PortalContentFolder
 Summary:	Product allow a mix of both PortalContent and SkinnedFolder
-Summary(pl.UTF-8):   Produkt umożliwiający łączenie zawartości PortalContent i SkinnedFolder
+Summary(pl.UTF-8):	Produkt umożliwiający łączenie zawartości PortalContent i SkinnedFolder
 Name:		Zope-CMF%{zope_subname}
 Version:	0.2
 Release:	2
