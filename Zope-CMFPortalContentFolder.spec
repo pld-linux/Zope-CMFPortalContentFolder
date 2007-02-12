@@ -1,6 +1,6 @@
 %define		zope_subname	PortalContentFolder
 Summary:	Product allow a mix of both PortalContent and SkinnedFolder
-Summary(pl):	Produkt umo¿liwiaj±cy ³±czenie zawarto¶ci PortalContent i SkinnedFolder
+Summary(pl.UTF-8):   Produkt umoÅ¼liwiajÄ…cy Å‚Ä…czenie zawartoÅ›ci PortalContent i SkinnedFolder
 Name:		Zope-CMF%{zope_subname}
 Version:	0.2
 Release:	2
@@ -23,8 +23,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 PortalContentFolder (for CMF) is a mix of both PortalContent and
 SkinnedFolder.
 
-%description -l pl
-PortalContentFolder (dla CMF) pozwala ³±czyæ zawarto¶æ PortalContent i
+%description -l pl.UTF-8
+PortalContentFolder (dla CMF) pozwala Å‚Ä…czyÄ‡ zawartoÅ›Ä‡ PortalContent i
 SkinnedFolder.
 
 %prep
